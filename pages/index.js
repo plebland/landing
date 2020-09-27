@@ -5,9 +5,11 @@ export default function Index({ youtube, preview }) {
   return (
     <Layout>
       <section className='content'>
-        <p className='top'>Hey</p>
-        <h1>pleb</h1>
-        <p className='bottom'>Retro</p>
+        <p className='top'>1700 UTC</p>
+        <h1>2020-10-04</h1>
+        <p className='bottom'>
+          <a href='https://hubs.link'>346485</a>
+        </p>
       </section>
       <section className='lighth'>
         <section className='lightv'></section>
