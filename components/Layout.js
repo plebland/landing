@@ -7,7 +7,7 @@ export default class Layout extends Component {
       <Fragment>
         <Head>
           <meta name='viewport' content='width=device-width, initial-scale=1' />
-          <title>0000</title>
+          <title>savetheworld</title>
           {/* <link rel='stylesheet' type='text/css' href='css/reset.css' /> */}
           {/* <link rel='stylesheet' type='text/css' href='css/vapor.css' /> */}
           <link rel='stylesheet' type='text/css' href='css/styles.css' />
