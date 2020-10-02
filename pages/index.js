@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, createRef } from 'react';
 import Layout from '../components/Layout';
 
 export default function Index({ youtube, preview }) {
@@ -14,6 +14,11 @@ export default function Index({ youtube, preview }) {
       <section className='lighth'>
         <section className='lightv'></section>
       </section>
+      <center>
+      <audio id="savetheworld" loop controls>
+        <source src="media/savetheworld.mp3" type="audio/mp3" />
+      </audio>
+      </center>
     </Layout>
   );
 }

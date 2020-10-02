@@ -3,6 +3,10 @@
 *::before {
   box-sizing: border-box; }
 
+@media (max-width: 600px) {
+  p {
+    padding: 1em; } }
+
 a {
   color: inherit;
   text-decoration: inherit; }
