@@ -8,7 +8,7 @@ export default function Index({ youtube, preview }) {
         <p className='top'>1700 UTC</p>
         <h1>2020-10-04</h1>
         <p className='bottom'>
-          <a href='https://hubs.link'>346485</a>
+          <a href='https://hubs.link'>206485</a>
         </p>
       </section>
       <section className='lighth'>
