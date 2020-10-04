@@ -6,18 +6,18 @@ export default function Index({ youtube, preview }) {
     <Layout>
       <section className='content'>
         <p className='top'>1700 UTC</p>
-        <h1>2020-10-04</h1>
+        <h1>2020-10-11</h1>
         <p className='bottom'>
-          <a href='https://hubs.link'>206485</a>
+          <a href='https://hubs.link'>987571</a>
         </p>
       </section>
       <section className='lighth'>
         <section className='lightv'></section>
       </section>
       <center>
-      <audio id="savetheworld" loop controls>
-        <source src="media/savetheworld.mp3" type="audio/mp3" />
-      </audio>
+        <audio id='savetheworld' loop controls>
+          <source src='media/savetheworld.mp3' type='audio/mp3' />
+        </audio>
       </center>
     </Layout>
   );
