@@ -5,7 +5,7 @@ export default function Index({ youtube, preview }) {
   return (
     <Layout>
       <section className='content'>
-        <p className='top'>1700 UTC</p>
+        <p className='top'>1700 <a href="https://siasky.net/AADFvvHt5B4KwCunyhD8bPmwxXy-SGqhqFpX33yWgyzRFw">U</a>TC</p>
         <h1>2020-10-11</h1>
         <p className='bottom'>
           <a href='https://hubs.link'>987571</a>
