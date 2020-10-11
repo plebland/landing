@@ -7,7 +7,7 @@ export default function Index({ youtube, preview }) {
       <section className='content'>
         <p className='top'>
           1700{' '}
-          <a href='https://siasky.net/AACTmuFCgFWEs0YmcxD7Um6o31f7FqTwAvqc8l1sSrSINg/'>
+          <a href='https://siasky.net/AAAM3ck_hT54ATRL-DWEbJ1BxesNUaWbyP8WKshfuA8QDQ'>
             U
           </a>
           TC
