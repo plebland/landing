@@ -7,12 +7,12 @@ export default function Index({ youtube, preview }) {
       <section className='content'>
         <p className='top'>
           1700{' '}
-          <a href='https://siasky.net/AACN0cG7qBFE8zF_J7r0s2Q5BwrLd1J3K0lkKSQ5JRdILw/'>
+          <a href='https://siasky.net/AADUwKM5_CvLgRrX53wlaqfm97_Mc59_SCwdVKou0iHnHg'>
             U
           </a>
           TC
         </p>
-        <h1>2020-11-1</h1>
+        <h1>2020-11-8</h1>
         <p className='bottom'>
           <a href='https://hubs.link'>906319</a>
         </p>
