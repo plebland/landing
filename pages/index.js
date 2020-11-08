@@ -14,7 +14,7 @@ export default function Index({ youtube, preview }) {
         </p>
         <h1>2020-11-8</h1>
         <p className='bottom'>
-          <a href='https://hubs.link'>906319</a>
+          <a href='https://hubs.link'>716938</a>
         </p>
       </section>
       <section className='lighth'>
