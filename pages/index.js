@@ -12,7 +12,7 @@ export default function Index({ youtube, preview }) {
           </a>
           TC
         </p>
-        <h1>2020-11-8</h1>
+        <h1>2020-11-15</h1>
         <p className='bottom'>
           <a href='https://hubs.link'>716938</a>
         </p>
