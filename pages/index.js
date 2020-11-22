@@ -12,9 +12,9 @@ export default function Index({ youtube, preview }) {
           </a>
           TC
         </p>
-        <h1>2020-11-22</h1>
+        <h1>cancelled</h1>
         <p className='bottom'>
-          <a href='https://hubs.link'>921382</a>
+          <a href='https://hubs.link'>--</a>
         </p>
       </section>
       <section className='lighth'>
